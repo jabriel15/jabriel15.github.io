@@ -143,7 +143,9 @@ hr {
 /* akhir sertifikat */
 
 /* contact */
-#contact
+.alert-custom1 {
+  background-color: var(--acsentColor);
+}
 /* akhir contact */
 
 /* footer */
