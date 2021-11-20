@@ -29,10 +29,14 @@
   #about p {
     text-align: justify !important;
   }
-}
 
-@media screen and (max-width: 576px) {
-}
+  #sertifikat img {
+    width: fit-content;
+  }
 
-@media screen and (max-width: 350px) {
+  @media screen and (max-width: 576px) {
+  }
+
+  @media screen and (max-width: 350px) {
+  }
 }

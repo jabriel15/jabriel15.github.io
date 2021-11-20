@@ -70,6 +70,7 @@ section h1 {
 }
 
 .social-icon svg {
+  color: white;
   margin-right: 1.5em;
   margin-bottom: 5px;
 }
@@ -129,14 +130,14 @@ hr {
 
 #sertifikat {
   margin-top: -230px;
-  padding: 290px;
+  padding-top: 300px;
   padding-bottom: 130px;
   background-color: var(--secondaryColor);
 }
 
 #sertifikat img {
-  width: 37%;
-  padding-top: 3rem;
+  width: 495px;
+  padding-top: 55px;
   margin-inline: 25px;
 }
 
